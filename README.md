@@ -27,7 +27,7 @@ pip install pycryptodome
 
    ```bash
    git clone https://github.com/MainlyRogue/RSA-Timing-Attack.git
-   cd RSATimingAttack
+   cd RSA-Timing-Attack
    ```
 
 2. Run the script :
